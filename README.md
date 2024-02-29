@@ -2,7 +2,7 @@
 Setup Videos for the Technical Softwares &amp; Related
 
 ## Table of Contents
-- [Softwares [Windows]](https://github.com/RaannaKasturi/TechnicalSetupVideos/edit/main/README.md#softwares-windows)
+- [Softwares [Windows]](https://github.com/RaannaKasturi/TechnicalSetupVideos?tab=readme-ov-file#softwares-windows)
 
 ## Softwares [Windows]
 1. VS Code - [Watch On Youtube](https://youtu.be/sFCjnDHUuIA)
